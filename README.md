@@ -1,17 +1,10 @@
 <h1 align="center"><i>Bem vindos ao meu perfil!</i> </h1>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/diogo-lima-carvalho/" target="_blank">
+  <a href="https://www.linkedin.com/in/ademir-alves-692499231/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    
-  <a href="mailto:diogo.carvalho.lc@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- 
-  <a href="#" target="_blank">
-   <img src="https://img.shields.io/badge/-@diogoCarvalho-E1306C?&style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
 -->
 </p>
 
