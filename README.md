@@ -14,13 +14,18 @@
 
 </p>
 
-<h2>🔥 <i>Habilidades</i> </h2> 
+<h2>🔥 <i>Habilidades em TI</i> </h2> 
 
 <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-f08c0a?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github" />&nbsp;&nbsp;
+
+<h2>🔥 <i>Habilidades com idiomas</i> </h2> 
+Inglês (avançado) 
+Japonês (Intermediário)
+Tailandês (Intermediário)
 
 
 
