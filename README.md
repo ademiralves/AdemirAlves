@@ -10,7 +10,7 @@
 
 <h1></h1> 
 
-<p align='justify'>Sou <b>Ademir Alves</b>. Estudo na <a href="http://www.fateczl.edu.br/dsmp" target="_blank"> FATEC Zona Leste </a> no curso de Desenvolvimento de Sistemas Multiplataformas, estou muito animado para concluir essa jornada.
+<p align='justify'>Sou <b>Ademir Alves</b>. Estudo na <a href="http://www.fateczl.edu.br/dsmp" target="_blank"> FATEC Zona Leste </a> no curso de Desenvolvimento de Software Multiplataforma, estou muito animado para concluir essa jornada.
 
 </p>
 
